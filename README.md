@@ -29,4 +29,8 @@ GDBT(NaNのまま，encoding少し調整(3))
 
 ## ~~submit_GBDT_NaN_encoding_2_select.ipynb~~
 GBDT(特徴量選択)  
-**RMSE: **
+**RMSE:**
+
+# 参考文献
+[1]Kaggleで勝つデータ分析の技術  
+[2]機械学習のための特徴量エンジニアリング
